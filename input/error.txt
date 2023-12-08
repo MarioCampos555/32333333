@@ -1,0 +1,8 @@
+[*testing opt function definition in opt declaration list*]
+function test() {
+    return ;
+}
+#
+function test1() {
+    return ;
+}
